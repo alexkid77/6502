@@ -5,3 +5,6 @@ C:\Users\alex\documents\visual studio 2013\Projects\6502emulador\6502emulador\ob
 C:\Users\alex\documents\visual studio 2013\Projects\6502emulador\6502emulador\obj\Debug\6502emulador.pdb
 C:\Users\alex\documents\visual studio 2013\Projects\6502emulador\6502emulador\bin\Debug\6502emulador.exe.CodeAnalysisLog.xml
 C:\Users\alex\documents\visual studio 2013\Projects\6502emulador\6502emulador\bin\Debug\6502emulador.exe.lastcodeanalysissucceeded
+C:\Users\alex\Documents\Visual Studio 2013\Projects\6502emulador\6502\6502emulador\bin\Debug\6502emulador.exe.config
+C:\Users\alex\Documents\Visual Studio 2013\Projects\6502emulador\6502\6502emulador\obj\Debug\6502emulador.exe
+C:\Users\alex\Documents\Visual Studio 2013\Projects\6502emulador\6502\6502emulador\obj\Debug\6502emulador.pdb
